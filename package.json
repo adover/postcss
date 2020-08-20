@@ -62,7 +62,7 @@
     "gulp-sourcemaps": "^2.6.4",
     "husky": "^1.2.1",
     "jest": "^23.6.0",
-    "jest-cli": "^23.6.0",
+    "jest-cli": "^26.4.1",
     "jsdoc": "^3.5.5",
     "lint-staged": "^8.1.0",
     "postcss-parser-tests": "^6.3.1",
