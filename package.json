@@ -41,7 +41,7 @@
     "babel-jest": "^23.6.0",
     "babel-plugin-add-module-exports": "^1.0.0",
     "concat-with-sourcemaps": "^1.1.0",
-    "del": "^3.0.0",
+    "del": "^6.0.0",
     "docdash": "^1.0.1",
     "eslint": "^5.10.0",
     "eslint-ci": "^1.0.0",
